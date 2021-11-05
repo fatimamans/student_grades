@@ -1,4 +1,5 @@
 Student Grades
+#
 The goal of this exercise is to help the students to know their average, by entering the grade of each subject to our page web.
 
 Remark: the number of subjects should be dynamic, it means that the student enters the number of his subjects before he enters their grade.
